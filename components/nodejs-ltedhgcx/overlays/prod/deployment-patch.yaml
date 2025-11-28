@@ -12,5 +12,5 @@ spec:
   template: 
     spec:
       containers:
-      - image: quay.io/redhat-tssc/task-runner:1.8
+      - image: quay.io/tsscui/nodejs-ltedhgcx:github-929af98aaafd47adb688d1d1a91cc1eba2c60dc8
         name: container-image  
